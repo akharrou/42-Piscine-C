@@ -1,0 +1,6 @@
+Credentials cache: API:33479
+        Principal: akharrou@42.US.ORG
+
+  Issued                Expires               Principal
+Oct 22 21:40:55 2018  Oct 23 07:40:55 2018  krbtgt/42.US.ORG@42.US.ORG
+Oct 22 21:41:01 2018  Oct 23 07:40:55 2018  ldap/ldap-master.42.us.org@42.US.ORG
